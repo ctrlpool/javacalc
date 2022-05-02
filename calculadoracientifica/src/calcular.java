@@ -13,7 +13,7 @@ import org.eclipse.swt.widgets.MenuItem;
 
 /**Documentación calculadora cientifica
  * generado con javadoc  - 2022
- * @author victor
+ * @author autorcalculadora
  * @version 0.1 
  * clase calcular
  */
