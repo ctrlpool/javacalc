@@ -15,7 +15,7 @@ import org.eclipse.swt.widgets.MenuItem;
  * generado con javadoc  - 2022
  * @author ctrlpool
  * @version 0.1 
- * clase calcular
+ * class calcular
  */
 public class calcular {
 	/**genera una calculadora científica en modo gráfico
